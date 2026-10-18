@@ -22,16 +22,3 @@ Applied the formula `humanAge = (dogAge - 2) * 4 + 21` and tested it with dog ag
 
 Task 12: Functions
 Created and called three functions: `greetUser()`, `calculateSum()`, and `calculateRectangleArea()`. Practised parameters, arguments, and return values.
-
-Technologies
-- HTML
-- JavaScript
-
-How to Run
-1. Open `index.html` in a browser.
-2. Open Developer Tools and select the Console tab.
-3. Follow the prompts and check the output.
-
-Project Structure
-- `index.html` – HTML page connected to the JavaScript file.
-- `js/script.js` – JavaScript code for Tasks 6–12.
